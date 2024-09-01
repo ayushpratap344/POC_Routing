@@ -1,0 +1,16 @@
+.stApp {
+    background-color: black;
+}
+
+div.stButton > button {
+    color: white;
+    background-color: green;
+}
+
+#custom-logo {
+    display: block;  
+    margin: 0 auto;  
+    padding: 20px 0;
+    width: 350px;
+}
+
