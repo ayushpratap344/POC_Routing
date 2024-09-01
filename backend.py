@@ -1,7 +1,7 @@
 import time
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="**********************************")
 
 MODEL_NAME = "llama3-8b-8192"
 
